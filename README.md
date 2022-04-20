@@ -1,3 +1,13 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Erdem+Okutan&center=true&size=25">
+  </a>
+</h1>
+
+
+
+
+
 ### Hi there, I am Erdem <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 <h3 align="center">Web Developer and interested in Artificial Intelligence</h3>
 
