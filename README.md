@@ -15,8 +15,6 @@
 
 <p align="left"> <a href="https://twitter.com/zihinzugurdu" target="blank"><img src="https://img.shields.io/twitter/follow/zihinzugurdu?logo=twitter&style=for-the-badge" alt="zihinzugurdu" /></a> </p>
 
-- 🔭 I’m currently working on **freelance nutritionist portfolio website**
-
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, React, NodeJS, Tailwind CSS**
 
 - 📫 How to reach me **erdem.okutan@hotmail.com**
